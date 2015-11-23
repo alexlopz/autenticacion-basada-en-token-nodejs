@@ -1,0 +1,13 @@
+{
+  "name": "Buscador-Colores",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "latest",
+    "cors": "2.7.1",
+    "express": "latest",
+    "jsonwebtoken": "0.4.0",
+    "jwt-simple": "^0.3.1",
+    "moment": "^2.10.6",
+    "mongoose": "4.2.4"
+  }
+}
